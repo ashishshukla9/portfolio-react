@@ -9,3 +9,7 @@ body {
   color: #fff;
   font-family: "Montserrat", sans-serif;
 }
+
+#root {
+  overflow-x: hidden !important;
+}
